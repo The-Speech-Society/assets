@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1500mm"
+   height="500mm"
+   viewBox="0 0 1500 500"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="COVER.svg"
+   inkscape:export-filename="COVER.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.1767767"
+     inkscape:cx="2740.7459"
+     inkscape:cy="1490.5811"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.233301"
+       id="rect234"
+       width="1500.0009"
+       height="499.99942"
+       x="0.00042761565"
+       y="0.00022848658" />
+    <text
+       xml:space="preserve"
+       style="font-size:98.93px;font-family:'Modern No. 20';-inkscape-font-specification:'Modern No. 20, ';text-align:center;text-anchor:middle;fill:#808000;stroke:none;stroke-width:1.03052"
+       x="322.84833"
+       y="281.85541"
+       id="text349"><tspan
+         sodipodi:role="line"
+         id="tspan347"
+         style="fill:#000000;stroke-width:1.03052"
+         x="322.84833"
+         y="281.85541">Think.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:98.93px;font-family:'Modern No. 20';-inkscape-font-specification:'Modern No. 20, ';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1.03052"
+       x="747.34082"
+       y="271.9624"
+       id="text505"><tspan
+         sodipodi:role="line"
+         id="tspan503"
+         style="stroke-width:1.03052"
+         x="747.34082"
+         y="271.9624">Script.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:98.93px;font-family:'Modern No. 20';-inkscape-font-specification:'Modern No. 20, ';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1.03052"
+       x="1164.463"
+       y="271.9624"
+       id="text509"><tspan
+         sodipodi:role="line"
+         id="tspan507"
+         style="stroke-width:1.03052"
+         x="1164.463"
+         y="271.9624">Speak.</tspan></text>
+  </g>
+</svg>
